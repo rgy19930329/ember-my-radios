@@ -7,7 +7,7 @@ Ember implementation of custom radios.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/rgy19930329/ember-my-radios.git`
 * `cd ember-my-radios`
 * `npm install`
 * `bower install`
