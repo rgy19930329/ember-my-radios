@@ -1,7 +1,7 @@
 {
   "name": "ember-my-radios",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Ember implementation of custom radios.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -41,7 +41,8 @@
     "loader.js": "^4.0.1"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "radios"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.6"
