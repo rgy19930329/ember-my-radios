@@ -4,7 +4,8 @@ Ember implementation of custom radios.
 
 ## Guide
 
-> step1: template.hbs
+step1: template.hbs
+
 ```
 {{my-radios
     content=model.list
@@ -15,7 +16,8 @@ Ember implementation of custom radios.
 }}
 ```
 
-> step2: data
+step2: data
+
 ```
 list: [
     { valx: '1', fname: '影视' },
@@ -27,8 +29,10 @@ list: [
 curr: { val: '3', name: '剧目' },
 ```
 
-> step3: style (you can overwrite if you want)
+step3: style (you can overwrite if you want)
+
 > tips: less base style
+
 ```
 .my-radios {
     font-size: 0;
@@ -49,6 +53,7 @@ curr: { val: '3', name: '剧目' },
     }
 }
 ```
+
 
 ## Installation
 
